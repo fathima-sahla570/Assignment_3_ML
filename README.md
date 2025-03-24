@@ -124,10 +124,10 @@ The target variable is **MedPrice**, which represents the median house price for
 
 ## Contact
 
-- **Name**: Musabbir Km
-- **Email**: musabbirmushu@gmail.com
-- **GitHub**: [musabbirkm](https://github.com/musabbirkm)
-- **LinkedIn**: [Musabbir Km](https://www.linkedin.com/in/musabbir-km)
+- **Name**: Fathimath sahla p
+- **Email**: fathimathsahla570@gmail.com
+- **GitHub**: github.com/fathimasahla570 
+- **LinkedIn**: linkedin.com/in/fathimath-sahla-p-8a073532aenver 
 ## Installation
 
 ### Prerequisites
